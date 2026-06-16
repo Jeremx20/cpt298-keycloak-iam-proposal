@@ -1,23 +1,26 @@
 # Project Proposal
 
 ## 1. Project Identification
-- **Project Title:**
-- **Course:**
-- **Term:**
-- **Student Name(s):**
-- **Primary Contact:**
-- **Proposed Start Date:**
-- **Proposed End Date:**
+
+•    Project Title: Keycloak IAM Solution
+•    Course: CPT 298
+•    Term: Summer 2026
+•    Student Name(s): Emilee West, Jeremie Onanga, Theodore (Teddy) Robillard
+•    Primary Contact:
+•    Proposed Start Date: 06/04/2026
+•    Proposed End Date: 07/05/2026
 
 ---
 
 ## 2. Project Selection & Motivation
-Describe why you selected this project and why you are a good fit.
 
+Describe why you selected this project and why you are a good fit.
 Include:
-- Personal or professional motivation
-- Alignment with career goals
-- Relevant interests or prior exposure
+•    Personal or professional motivation
+•    Alignment with career goals
+•    Relevant interests or prior exposure
+Project topic was suggested by Jeremie, and he has an interest in cybersecurity. 
+Theodore has a background in networking. 
 
 ---
 
