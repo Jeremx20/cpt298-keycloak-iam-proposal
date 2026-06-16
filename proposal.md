@@ -27,8 +27,6 @@ Theodore has a background in networking.
 ## 3. Problem Statement
 cpt.internal lacks centralized IAM—each service manages its own accounts independently. This forces users to maintain separate credentials for every tool, makes provisioning and deprovisioning error-prone, prevents centralized auditing, and blocks consistent security policies. All cpt.internal users (students, instructors, admins) are affected. This fragmentation increases security risk, wastes operational resources, prevents students from learning enterprise IAM practices, and doesn't scale. Deploying a unified IAM solution like Keycloak addresses these gaps by centralizing authentication, enabling consistent policies, and providing comprehensive audit trails.
 
-Limit to 1–2 focused paragraphs.
-
 ---
 
 ## 4. Proposed Solution Overview
