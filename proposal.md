@@ -52,15 +52,19 @@ List the technologies you expect to use.  Please note that this solution MUST li
 ---
 
 ## 6. Prerequisite Knowledge & Skills
-Assess your readiness for this project.
+Jeremie Onanga:
+Skills I already have
 
-Include:
-- Skills you already have
-- Skills you need to learn
-- Relevant coursework completed
-- Prior projects or experience
+Linux system administration (Debian, Ubuntu, Arch), Cisco networking fundamentals (VLANs, ACLs, OSPF, NAT, EtherChannel), Python and Bash scripting, penetration testing basics,...
+Skills I need to learn
 
-Be honest—this section helps scope the project appropriately.
+OAuth 2.0 and OpenID Connect (authorization code flow, PKCE), SAML 2.0, JWT (structure, validation, attacks), Keycloak administration (realm setup, client configuration, policies, federation), LDAP basics, CVSS scoring.
+
+Relevant coursework
+
+CPT 201 (Linux administration), CPT 239 (Cisco networking), CPT 271 (Network Security), CPT 281 (Penetration Testing).
+Prior projects
+ Arch Linux Local AI Services Station (Ollama, Docker, systemd services), CPT 281 lab work.
 
 ---
 
