@@ -108,15 +108,13 @@ LDAP/AD federation (if existing directory available)
 
 
 ## 8. Milestones & Timeline
-Provide a rough timeline broken into phases.
 
-Example:
-- Phase 1: Research & Design
-- Phase 2: Core Implementation
-- Phase 3: Testing & Refinement
-- Phase 4: Documentation & Presentation
+- Phase 1: Research & Design 6/21/26 to 6/24/26
+- Phase 2: Core Implementation 6/25/26 to 7/1/26
+- Phase 3: Testing & Refinement 7/2/26 to 7/5/26
+- Phase 4: Documentation & Presentation 7/5/26
 
-Dates do not need to be exact, but planning is required.
+
 
 ---
 
