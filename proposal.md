@@ -66,6 +66,15 @@ CPT 201 (Linux administration), CPT 239 (Cisco networking), CPT 271 (Network Sec
 Prior projects
  Arch Linux Local AI Services Station (Ollama, Docker, systemd services), CPT 281 lab work.
 
+
+ Teddy Robillard:
+ 
+ Skills I have 
+ Linux skills (Debian), Cisco networking fundamentals (VLANs, ACLs, OSPF, NAT, EtherChannel), and Python and Bash scripting
+
+ Skills I need 
+ OAuth 2.0 and OpenID Connect (authorization code flow, PKCE), SAML 2.0, JWT (structure, validation, attacks), Keycloak administration (realm setup, client configuration, policies, federation), LDAP basics, CVSS scoring.
+
 ---
 
 ## 7. Project Scope & Deliverables
