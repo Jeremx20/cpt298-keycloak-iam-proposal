@@ -163,16 +163,16 @@ Include:
 ---
 
 ## 13. Faculty/cpt.internal Resources Requested
-List any required resources:
-- VM access
-- Network access
-- Credentials or APIs
-- Special permissions
-- Hardware (if applicable)
 
-Please be sure to consider any future tickets you may need to submit to complete this work as those will need to be generated and assigned to the appropriate groups as soon as feasibly possible once the project kicks off to ensure timely delivery.  I will step in to help where required but you will likely be working with students in other classes so please be cognizant of their time!
 
----
+VM access + sudo (already provided)
+Confirmation of OS and VM specs
+Internal DNS support (e.g. keycloak.cpt.internal)
+Connectivity between our VMs and target service
+Service to integrate + admin credentials
+Submission channel confirmation
+Instructor availability for check-ins
+
 
 ## 14. Acknowledgement of Expectations
 By submitting this proposal, I acknowledge that:
