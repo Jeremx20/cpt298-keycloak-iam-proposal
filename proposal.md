@@ -87,7 +87,7 @@ Prior projects
 ---
 
 ## 7. Project Scope & Deliverables
-MVP
+MVP: 
 Keycloak deployed with PostgreSQL and HTTPS
 One realm configured with users, roles, and policies
 One service integrated via OIDC, end-to-end validated
@@ -95,13 +95,13 @@ Audit logging enabled
 Security audit report (config review + automated scan)
 Documentation: README, deployment guide, UVDesk articles, admin runbook
 
-Required outputs
+Required outputs: 
 GitHub repository
 UVDesk articles
 Security audit report
 Final presentation
 
-Stretch goals 
+Stretch goals: 
 MFA (TOTP) for admin accounts
 Second service integration
 LDAP/AD federation (if existing directory available)
