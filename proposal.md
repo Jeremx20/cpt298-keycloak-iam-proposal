@@ -69,11 +69,11 @@ Prior projects
 
  Teddy Robillard:
  
- Skills I have 
- Linux skills (Debian), Cisco networking fundamentals (VLANs, ACLs, OSPF, NAT, EtherChannel), and Python and Bash scripting
+ Skills I have: 
+  Linux skills (Debian), Cisco networking fundamentals (VLANs, ACLs, OSPF, NAT, EtherChannel), and Python and Bash scripting
 
- Skills I need 
- OAuth 2.0 and OpenID Connect (authorization code flow, PKCE), SAML 2.0, JWT (structure, validation, attacks), Keycloak administration (realm setup, client configuration, policies, federation), LDAP basics, CVSS scoring.
+ Skills I need: 
+  OAuth 2.0 and OpenID Connect (authorization code flow, PKCE), SAML 2.0, JWT (structure, validation, attacks), Keycloak administration (realm setup, client configuration, policies, federation), LDAP basics, CVSS scoring.
 
 ---
 
