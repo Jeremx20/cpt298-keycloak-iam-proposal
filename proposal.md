@@ -45,8 +45,8 @@ Explicit exclusions
 LDAP/AD deployment from scratch
 Self-service password reset
 Modification of integrated services
-MFA (stretch goal only)
 Manual penetration testing of integrated services beyond the configuration audit
+and as a stretch goal to implement MFA
 
 
 ## 5. Technical Stack & Tools
