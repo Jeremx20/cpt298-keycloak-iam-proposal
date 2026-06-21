@@ -144,13 +144,28 @@ A brief assessment of all of these is required, even if it is "N/A".
 ---
 
 ## 11. Team Structure (If Applicable)
-If working in a group, describe:
-- Team roles
-- Communication plan
-- Conflict resolution approach
-- Workload distribution
 
----
+Roles
+Jeremie — Security & Integration Lead: threat model, Keycloak config (realm, policies, RBAC), audit logging, OIDC integration, security audit, coordination
+
+Theodore — Infrastructure & Documentation Lead: Keycloak deployment, PostgreSQL, reverse proxy + TLS, network, documentation (README, deployment guide, UVDesk)
+
+Communication
+Weekly async Discord status update
+at least 1 short call/week
+GitHub Issues for tracking
+Decisions in DECISIONS.md
+
+Conflict resolution
+Discussed at scheduled calls
+Blockers unresolved within 24h → escalated to instructor
+
+Workload distribution
+Clear owner per deliverable, peer review
+Weekly check for overload
+Critical path drives priorities
+
+
 
 ## 12. Documentation & Knowledge Transfer Plan
 Explain how this project will be documented.  Please note that this should include documentation in the UVDesk knowledgebase at the very least.  Programming projects should include readme.md files. 
