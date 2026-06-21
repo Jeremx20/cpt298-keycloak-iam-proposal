@@ -5,7 +5,7 @@
 •    Project Title: Keycloak IAM Solution
 •    Course: CPT 298
 •    Term: Summer 2026
-•    Student Name(s): Emilee West, Jeremie Onanga, Theodore (Teddy) Robillard
+•    Student Name(s): Jeremie Onanga, Theodore (Teddy) Robillard
 •    Primary Contact:
 •    Proposed Start Date: 06/04/2026
 •    Proposed End Date: 07/05/2026
