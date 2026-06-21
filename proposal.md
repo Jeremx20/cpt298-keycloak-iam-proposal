@@ -30,26 +30,35 @@ cpt.internal lacks centralized IAM—each service manages its own accounts indep
 ---
 
 ## 4. Proposed Solution Overview
-Provide a high-level description of your proposed solution.
+We will deploy Keycloak as the centralized IAM solution for cpt.internal. It will act as the Identity Provider (IdP) for one integrated service, enabling SSO via OpenID Connect.
+Core features
+SSO for one internal service via OIDC
+Centralized user/group management in a dedicated realm
+Role-Based Access Control (RBAC)
+Strong authentication policies (passwords, brute-force protection, sessions)
+Audit logging
+HTTPS via reverse proxy + TLS
+PostgreSQL backend
+Security audit (config review + automated scan)
+Documentation in UVDesk and deployment guide
+Explicit exclusions
+LDAP/AD deployment from scratch
+Self-service password reset
+Modification of integrated services
+MFA (stretch goal only)
+Manual penetration testing of integrated services beyond the configuration audit
 
-Include:
-- What you intend to build, deploy, or configure
-- Core features or capabilities
-- Explicit exclusions (what the project will *not* include)
-
----
 
 ## 5. Technical Stack & Tools
-List the technologies you expect to use.  Please note that this solution MUST live within the cpt.internal network and must be maintainable by future students.
 
-- **Operating System(s):**
-- **Programming Language(s):**
-- **Frameworks / Libraries:**
-- **Databases / Storage:**
-- **Infrastructure (VMs, containers, etc.):**
-- **Tools (Git, CI, monitoring, APIs, etc.):**
+OS: Linux on cpt.internal VMs
+Languages: Bash for scripts; Python for optional automation
+Frameworks: Keycloak (container or distribution)
+Database: PostgreSQL
+Infrastructure: Docker, reverse proxy (Nginx or Caddy)
+Tools: Git/GitHub, GitHub Issues, UVDesk, Discord, Keycloak admin console + REST API
+For audit: OWASP ZAP, testssl.sh, nmap, Keycloak hardening guide
 
----
 
 ## 6. Prerequisite Knowledge & Skills
 Jeremie Onanga:
