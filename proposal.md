@@ -187,7 +187,7 @@ By submitting this proposal, I acknowledge that:
 **Signature (Name & Date):**
 
 Student 1:  ____________________________ Date: _______________
-Student 2:  ____________________________ Date: _______________
+Student 2:  Theodore Robillard Date: 6/21/2026
 Student 3:  ____________________________ Date: _______________
 Student 4:  ____________________________ Date: _______________
 
