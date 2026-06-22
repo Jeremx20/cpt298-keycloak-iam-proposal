@@ -122,8 +122,7 @@ LDAP/AD federation (if existing directory available)
 
 - July 5th is not very far out.
 - We will probably need Admin excess
----
-- We will work on this as a top priority  
+- to mitigate these problems we will work on this as a top priority  
 
 ---
 
