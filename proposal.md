@@ -119,13 +119,11 @@ LDAP/AD federation (if existing directory available)
 ---
 
 ## 9. Risks, Constraints & Dependencies
-Identify potential challenges.
 
-Include:
-- Technical risks
-- Time constraints
-- External dependencies (APIs, credentials, access)
-- Mitigation strategies
+- July 5th is not very far out.
+- We will probably need Admin excess
+-
+- We will work on this as a top priority  
 
 ---
 
