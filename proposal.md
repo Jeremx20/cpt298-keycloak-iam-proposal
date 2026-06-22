@@ -166,14 +166,9 @@ Critical path drives priorities
 
 
 ## 12. Documentation & Knowledge Transfer Plan
-Explain how this project will be documented.  Please note that this should include documentation in the UVDesk knowledgebase at the very least.  Programming projects should include readme.md files. 
 
-Include:
-- README or user documentation
-- Deployment or maintenance guides
-- How another student or administrator could continue the project
+ README, deployment guide, UVDesk articles, and admin runbook will all be used.
 
----
 
 ## 13. Faculty/cpt.internal Resources Requested
 
