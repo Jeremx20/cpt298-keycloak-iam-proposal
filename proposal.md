@@ -130,14 +130,13 @@ Include:
 ---
 
 ## 10. Security, Ethics & Safety Considerations
-Address any relevant concerns, such as:
-- Authentication and authorization
-- Data sensitivity
-- Network exposure
-- Logging, monitoring, or automation impact
-- Ethical considerations
 
-A brief assessment of all of these is required, even if it is "N/A".
+- Authentication and authorization: Might be needed to set up 
+- Data sensitivity: Might be needed to set up
+- Network exposure: N/A
+- Logging, monitoring, or automation impact: Might break some of this, but probably won't
+- Ethical considerations: N/A
+
 
 ---
 
